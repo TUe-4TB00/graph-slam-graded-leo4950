@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this assignment you will implement graph SLAM for a moving robot using GTSAM, a library aimed for implementations of mapping approaches in robotics. The assignment will start with a walk-through of the set-up of the graph and the corresponding measurements. After that, you will be extending this graph based on the next movements and measurements. 
+In this assignment you will implement graph SLAM for a moving robot using GTSAM, a library aimed for implementations of mapping approaches in robotics. The assignment will start with a walk-through of the set-up of the graph and the corresponding measurements. After that, you will be extending this graph based on the nconext movements and measurements. 
 
 Each function is implemented in a separate file in `src/`. The notebook walks you through the implementations and tell you which file to edit at each step. After implementing a function, you run the corresponding test to verify your implementation is correct.
 
